@@ -1,4 +1,4 @@
-package Homework2.office;
+package homework2.office;
 
 public class Runner {
     public static void main(String[] args) {

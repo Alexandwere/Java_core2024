@@ -1,4 +1,4 @@
-package Homework2.office;
+package homework2.office;
 
 public class Guardian {
     private String name;

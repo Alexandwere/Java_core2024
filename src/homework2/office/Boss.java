@@ -1,4 +1,4 @@
-package Homework2.office;
+package homework2.office;
 
 public class Boss {
     //Босс обладает именем. Умеет подгонять менеджера - "{Имя менеджера}" быстрее!
