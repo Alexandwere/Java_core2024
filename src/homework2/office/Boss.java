@@ -1,7 +1,6 @@
 package homework2.office;
 
 public class Boss {
-    //Босс обладает именем. Умеет подгонять менеджера - "{Имя менеджера}" быстрее!
     private String name;
 
     public Boss(String name) {
