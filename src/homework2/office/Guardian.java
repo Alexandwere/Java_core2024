@@ -7,7 +7,7 @@ public class Guardian {
         this.name = name;
     }
 
-    public void speak(){
+    public void speak() {
         System.out.println(this.name + " (охранник): Выдайте мне аванс!");
     }
 
