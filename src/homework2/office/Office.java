@@ -13,7 +13,7 @@ public class Office {
         this.secretary = secretary;
         this.guardian = guardian;
     }
-     public void workDay(){
+     public void workDay() {
         boss.speak(manager.getName());
         manager.speak();
         guardian.speak();
