@@ -1,4 +1,9 @@
-package homework3.ex2;
+package homework3.ex2.factories;
+
+import homework3.ex2.components.Camera;
+import homework3.ex2.components.Case;
+import homework3.ex2.components.Cpu;
+import homework3.ex2.phones.Samsung;
 
 public class IphoneFactory {
     public static void makePhone() {

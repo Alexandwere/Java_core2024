@@ -1,6 +1,7 @@
 package homework3.ex2;
 
-import java.util.Arrays;
+import homework3.ex2.factories.SamsungFactory;
+import homework3.ex2.phones.Samsung;
 
 public class Runner {
     //Задача: Фабрика телефонов

@@ -1,4 +1,4 @@
-package homework3.ex2;
+package homework3.ex2.components;
 
 public class Cpu {
     private int countCpu;

@@ -5,25 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex1/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Cpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/IphoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex2/SamsungFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex4/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/ex4/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/ex4/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/components/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/components/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/components/Cpu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/IphoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/IphoneFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Samsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Samsung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/SamsungFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/SamsungFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex3/Pyramid1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex3/Pyramid2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex3/Pyramid3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex4/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex4/House.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,20 +64,7 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework3.ex3.Runner">
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Ex5" />
-      <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.homework3.ex2.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.office.Runner" />
       <module name="Java_core2024" />
@@ -112,7 +96,7 @@
       <module name="Java_core2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.ex2.*" />
+          <option name="PATTERN" value="homework3.ex2.components.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework3.ex4.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework3.ex4.Runner" />
+      <module name="Java_core2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework3.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework3.ex3.Runner" />
         <item itemvalue="Application.homework3.ex2.Runner" />
+        <item itemvalue="Application.homework3.ex4.Runner" />
+        <item itemvalue="Application.homework3.ex3.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.homework3.ex1.Runner" />
-        <item itemvalue="Application.Ex5" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723142512438</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1">
+      <option name="closed" value="true" />
+      <created>1723481107869</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723481107869</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

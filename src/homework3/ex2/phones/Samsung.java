@@ -1,4 +1,8 @@
-package homework3.ex2;
+package homework3.ex2.phones;
+
+import homework3.ex2.components.Camera;
+import homework3.ex2.components.Case;
+import homework3.ex2.components.Cpu;
 
 public class Samsung extends Phone {
 
