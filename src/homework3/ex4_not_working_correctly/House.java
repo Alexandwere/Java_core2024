@@ -9,19 +9,6 @@ public class House implements Cloneable{
         this.houseNumber = houseNumber;
     }
 
-//    public static House deepCopyHouse(House original){
-//        String copyStreet = new String(original.street);
-//        int copyHouseNumber = original.houseNumber;
-//        House copyHouse = new House(copyStreet, copyHouseNumber);
-//        return copyHouse;
-//    }
-
-
-    @Override
-    public Object clone() throws CloneNotSupportedException {
-        return super.clone();
-    }
-
     public String getStreet() {
         return street;
     }
