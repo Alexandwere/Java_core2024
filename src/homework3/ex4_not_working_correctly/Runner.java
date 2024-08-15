@@ -8,12 +8,10 @@ public class Runner {
         City perm = new City("Пермь", houses);
         City perm2 = City.deepCopyCity(perm);
 
-
-
         System.out.println(perm);
         House house3 = perm.getHouses()[0];
         house3.setStreet("Сладкая");
         System.out.println(house3);
-        System.out.println(perm);
+        System.out.println(perm2);
     }
 }
