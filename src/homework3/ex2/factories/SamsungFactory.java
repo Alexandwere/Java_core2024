@@ -11,7 +11,6 @@ public class SamsungFactory {
         Case samCase = new Case(60, 200, 15);
         Cpu samCpu = new Cpu(1, 1500);
 
-        Samsung samsung = new Samsung(samCamera, samCase, samCpu);
-        return samsung;
+        return new Samsung(samCamera, samCase, samCpu);
     }
 }

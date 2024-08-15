@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex4/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex4/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/ex4_not_working/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/ex4_not_working/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/components/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/components/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/components/Cpu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Iphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/IphoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/IphoneFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Samsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Samsung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/SamsungFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/SamsungFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex3/Pyramid1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex3/Pyramid2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex3/Pyramid3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex3/Pyramid3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex4/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex4/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/factories/SamsungFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/factories/SamsungFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework3/ex4/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex4_not_working/House.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +54,7 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework3.ex2.Runner">
+  <component name="RunManager" selected="Application.homework3.ex4_not_working.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.office.Runner" />
       <module name="Java_core2024" />
@@ -117,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework3.ex4.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex4.Runner" />
+    <configuration name="homework3.ex4_not_working.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework3.ex4_not_working.Runner" />
       <module name="Java_core2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.ex4.*" />
+          <option name="PATTERN" value="homework3.ex4_not_working.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework3.ex4_not_working.Runner" />
         <item itemvalue="Application.homework3.ex2.Runner" />
-        <item itemvalue="Application.homework3.ex4.Runner" />
         <item itemvalue="Application.homework3.ex3.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.homework3.ex1.Runner" />
@@ -237,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723481107869</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1">
+      <option name="closed" value="true" />
+      <created>1723665582277</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723665582277</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,5 +253,15 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
