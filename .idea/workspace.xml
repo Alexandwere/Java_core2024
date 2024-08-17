@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex4_not_working/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework3/ex4_not_working/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex2/factories/SamsungFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex2/factories/SamsungFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework3/ex4/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework3/ex4_not_working/House.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework3.ex4_not_working.Runner">
+  <component name="RunManager" selected="Application.homework3.ex4_not_working_correctly.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.office.Runner" />
       <module name="Java_core2024" />
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework3.ex4_not_working.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex4_not_working.Runner" />
+    <configuration name="homework3.ex4_not_working_correctly.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework3.ex4_not_working_correctly.Runner" />
       <module name="Java_core2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.ex4_not_working.*" />
+          <option name="PATTERN" value="homework3.ex4_not_working_correctly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,7 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework3.ex4_not_working.Runner" />
+        <item itemvalue="Application.homework3.ex4_not_working_correctly.Runner" />
         <item itemvalue="Application.homework3.ex2.Runner" />
         <item itemvalue="Application.homework3.ex3.Runner" />
         <item itemvalue="Application.Runner" />
@@ -235,7 +230,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723665582277</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1">
+      <option name="closed" value="true" />
+      <created>1723721121353</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723721121353</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1">
+      <option name="closed" value="true" />
+      <created>1723721150971</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1723721150971</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1">
+      <option name="closed" value="true" />
+      <created>1723721211957</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723721211957</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
