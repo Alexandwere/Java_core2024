@@ -11,10 +11,10 @@ public class CarWash {
 
     public BigDecimal wash(Car car) {
         if (car.getLength() > 6 || car.getHigh() > 2.5 || car.getWidth() > 2) {
-            price = BigDecimal.valueOf(4000);
+            price = upPrice;
             System.out.printf("Машина крупногабаритная, стоимость мойки %s\n", price);
         } else {
-            price = BigDecimal.valueOf(2000);
+            price = downPrice;
             System.out.printf("Машина малогабаритная, стоимость мойки %s\n", price);
         }
         car.setClean(true);
