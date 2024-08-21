@@ -5,7 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/CarWash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/PassengerCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/FlyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/Speakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/people/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/people/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/people/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/Live.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/NotAliveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/herbivore/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/herbivore/Herbivore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/herbivore/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/predator/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/predator/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/predator/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/AllFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/FlyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_core2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_core2024.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,61 +73,24 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lazuk/IdeaProjects/Java_core2024/src&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lazuk/IdeaProjects/Java_core2024/src/Main.java&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lazuk/IdeaProjects/Java_core2024/src/homework4/text2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lazuk/IdeaProjects/Java_core2024/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.infernus.idea.checkstyle.CheckStyleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src\homework4\text2" />
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework3.ex4_not_working_correctly.Runner">
+  <component name="RunManager" selected="Application.homework4.ex4.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.office.Runner" />
+      <option name="MAIN_CLASS_NAME" value="homework4.ex3.Runner" />
       <module name="Java_core2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.office.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework3.ex1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex1.Runner" />
-      <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework3.ex2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex2.Runner" />
-      <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.ex2.components.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework3.ex3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex3.Runner" />
-      <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.ex3.Pyramid1" />
+          <option name="PATTERN" value="homework4.ex3.people.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +111,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework4.ex1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.ex1.Runner" />
+      <module name="Java_core2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework4.ex2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.ex2.Runner" />
+      <module name="Java_core2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework4.ex4.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.ex4.Runner" />
+      <module name="Java_core2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework3.ex4_not_working_correctly.Runner" />
-        <item itemvalue="Application.homework3.ex2.Runner" />
-        <item itemvalue="Application.homework3.ex3.Runner" />
+        <item itemvalue="Application.homework4.ex4.Runner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.homework3.ex1.Runner" />
+        <item itemvalue="Application.homework4.ex2.Runner" />
+        <item itemvalue="Application.homework4.ex1.Runner" />
+        <item itemvalue="Application.homework3.ex4_not_working_correctly.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723721211957</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1">
+      <option name="closed" value="true" />
+      <created>1723882806989</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723882806989</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
