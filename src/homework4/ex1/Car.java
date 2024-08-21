@@ -2,9 +2,9 @@ package homework4.ex1;
 
 public abstract class Car {
     private boolean isClean = false;
-    private double length;
-    private double high;
-    private double width;
+    private final double length;
+    private final double high;
+    private final double width;
 
     public boolean isClean() {
         return isClean;

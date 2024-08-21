@@ -5,31 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/CarWash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/PassengerCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/FlyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/people/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/people/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex3/people/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/Live.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/NotAliveException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/herbivore/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/herbivore/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/herbivore/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/predator/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/predator/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework4/ex4/predator/Wolf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Airplane.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/AllFly.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Duck.java" afterDir="false" />
@@ -37,7 +12,8 @@
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Flyable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_core2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_core2024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework4/ex1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4/ex1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework4/ex1/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4/ex1/CarWash.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +60,7 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework4.ex4.Runner">
+  <component name="RunManager" selected="Application.homework4.ex1.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework4.ex3.Runner" />
       <module name="Java_core2024" />
@@ -152,10 +128,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework4.ex1.Runner" />
         <item itemvalue="Application.homework4.ex4.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.homework4.ex2.Runner" />
-        <item itemvalue="Application.homework4.ex1.Runner" />
         <item itemvalue="Application.homework3.ex4_not_working_correctly.Runner" />
       </list>
     </recent_temporary>
@@ -297,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723882806989</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="1">
+      <option name="closed" value="true" />
+      <created>1724258818898</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724258818898</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
