@@ -19,7 +19,7 @@ public class CarWash {
         return price;
     }
 
-    public void wash(Car[] cars) {
+    public BigDecimal wash(Car[] cars) {
         for (Car car : cars) {
             if (car.getLength() > 6 || car.getHigh() > 2.5 || car.getWidth() > 2) {
                 price = BigDecimal.valueOf(4000);
@@ -29,6 +29,6 @@ public class CarWash {
             car.setClean(true);
             allCost = allCost.add(price);
         }
-        System.out.printf("Общая стоимость мойки %s\n", allCost);
+        return allCost;
     }
 }

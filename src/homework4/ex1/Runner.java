@@ -27,6 +27,6 @@ public class Runner {
 
         Car[] cars = {car1, car2, car3, car4, bus1, bus2, bus3, bus4, bus5};
         CarWash carWash = new CarWash();
-        carWash.wash(cars);
+        System.out.println("Общая стоимость мойки = " + carWash.wash(cars));
     }
 }
