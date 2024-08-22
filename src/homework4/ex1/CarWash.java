@@ -6,15 +6,15 @@ public class CarWash {
 
     private BigDecimal price = BigDecimal.valueOf(0);
     private BigDecimal allCost = BigDecimal.valueOf(0);
-    private static final BigDecimal UP_PRICE = BigDecimal.valueOf(4000);
-    private static final BigDecimal DOWN_PRICE = BigDecimal.valueOf(2000);
+    private final BigDecimal upPrice = BigDecimal.valueOf(4000);
+    private final BigDecimal downPrice = BigDecimal.valueOf(2000);
 
     public BigDecimal wash(Car car) {
         if (car.getLength() > 6 || car.getHigh() > 2.5 || car.getWidth() > 2) {
-            price = UP_PRICE;
+            price = upPrice;
             System.out.printf("Машина крупногабаритная, стоимость мойки %s\n", price);
         } else {
-            price = DOWN_PRICE;
+            price = downPrice;
             System.out.printf("Машина малогабаритная, стоимость мойки %s\n", price);
         }
         car.setClean(true);
@@ -24,9 +24,9 @@ public class CarWash {
     public BigDecimal wash(Car[] cars) {
         for (Car car : cars) {
             if (car.getLength() > 6 || car.getHigh() > 2.5 || car.getWidth() > 2) {
-                price = UP_PRICE;
+                price = upPrice;
             } else {
-                price = DOWN_PRICE;
+                price = downPrice;
             }
             car.setClean(true);
             allCost = allCost.add(price);
