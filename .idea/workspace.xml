@@ -11,9 +11,10 @@
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/FlyException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Flyable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/homework4/text2/ex2/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/ex1/Nado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework5/ex1/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework4/ex1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4/ex1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework4/ex1/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4/ex1/CarWash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_core2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_core2024.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -60,29 +62,10 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework4.ex1.Runner">
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.ex3.Runner" />
+  <component name="RunManager" selected="Application.homework5.ex1.Runner">
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
       <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework4.ex3.people.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework3.ex4_not_working_correctly.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework3.ex4_not_working_correctly.Runner" />
-      <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.ex4_not_working_correctly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,20 +75,7 @@
       <module name="Java_core2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework4.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework4.ex2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework4.ex2.Runner" />
-      <module name="Java_core2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework4.ex2.*" />
+          <option name="PATTERN" value="homework4.ex1.Price" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +96,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework4.ex5.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.ex5.Runner" />
+      <module name="Java_core2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.ex5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework5.ex1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.ex1.Runner" />
+      <module name="Java_core2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework5.ex1.Runner" />
+        <item itemvalue="Application.homework4.ex5.Runner" />
         <item itemvalue="Application.homework4.ex1.Runner" />
+        <item itemvalue="Application.Runner (1)" />
         <item itemvalue="Application.homework4.ex4.Runner" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.homework4.ex2.Runner" />
-        <item itemvalue="Application.homework3.ex4_not_working_correctly.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +277,55 @@
       <option name="project" value="LOCAL" />
       <updated>1724258818898</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1">
+      <option name="closed" value="true" />
+      <created>1724259216243</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724259216243</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1">
+      <option name="closed" value="true" />
+      <created>1724259557522</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724259557522</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1">
+      <option name="closed" value="true" />
+      <created>1724261660497</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724261660497</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1">
+      <option name="closed" value="true" />
+      <created>1724261792222</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724261792222</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1">
+      <option name="closed" value="true" />
+      <created>1724336871376</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724336871376</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1">
+      <option name="closed" value="true" />
+      <created>1724337296110</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1724337296110</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +350,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="11" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
