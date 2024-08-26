@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/comp.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2/computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework5/ex2/computer/SpyComputer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework5/ex1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework5/ex1/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comp.log" beforeDir="false" afterPath="$PROJECT_DIR$/comp.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework5/ex2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework5/ex2/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724612277037</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="1">
+      <option name="closed" value="true" />
+      <created>1724696457987</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1724696457987</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

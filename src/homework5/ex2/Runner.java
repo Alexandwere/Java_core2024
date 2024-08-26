@@ -18,5 +18,6 @@ public class Runner {
         spyComputer.logIn(user1);
         spyComputer.message();
         spyComputer.logOut();
+        scanner.close();
     }
 }
