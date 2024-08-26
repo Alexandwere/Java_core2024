@@ -3,6 +3,7 @@ package homework5.ex1;
 import java.io.FileNotFoundException;
 import java.math.BigDecimal;
 import java.util.Scanner;
+import java.util.regex.Pattern;
 
 public class Runner {
     public static void main(String[] args) throws FileNotFoundException {
@@ -18,17 +19,18 @@ public class Runner {
 
         while (scanner.hasNextLine()) {
             String fragment = scanner.nextLine();
-            try {
-                for (int i = 0; i < countries.length; i++) {
-                    if (fragment.contains(countries[i])) {
-                        String oneDonat = (fragment
-                                .replace(',', '.'))
-                                .substring(fragment.indexOf(';') + 1);
-                        donations[i] = donations[i].add(BigDecimal.valueOf(Double.parseDouble(oneDonat)));
+            for (int i = 0; i < countries.length; i++) {
+                if (fragment.contains(countries[i])) {
+                    String oneDonat = (fragment
+                            .substring(fragment.indexOf(';') + 1));
+                    Pattern pattern = Pattern.compile("^\\d*,\\d*$");
+                    if (pattern.matcher(oneDonat).find()) {
+                        donations[i] = donations[i].add(BigDecimal.valueOf(Double
+                                .parseDouble(oneDonat.replace(',', '.'))));
+                    } else {
+                        scanner.nextLine();
                     }
                 }
-            } catch (NumberFormatException e) {
-                scanner.nextLine();
             }
         }
 
