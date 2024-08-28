@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework5/ex1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework5/ex1/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework2.Runner">
+  <component name="RunManager" selected="Application.homework5.ex1.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework5.ex2.Runner" />
       <module name="Java_core2024" />
@@ -121,10 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework5.ex1.Runner" />
         <item itemvalue="Application.homework2.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.homework4.ex1.Runner" />
-        <item itemvalue="Application.homework5.ex1.Runner" />
         <item itemvalue="Application.rrrrrrr" />
       </list>
     </recent_temporary>
@@ -346,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724697724322</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="1">
+      <option name="closed" value="true" />
+      <created>1724862185009</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1724862185009</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

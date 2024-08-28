@@ -17,18 +17,17 @@ public class Runner {
 
         Scanner scanner = new Scanner(Runner.class.getClassLoader().getResourceAsStream(filename));
 
-        while (scanner.hasNextLine()) {
+        while (scanner.hasNext()) {
             String fragment = scanner.nextLine();
             for (int i = 0; i < countries.length; i++) {
                 if (fragment.contains(countries[i])) {
                     String oneDonat = (fragment
                             .substring(fragment.indexOf(';') + 1));
+
                     Pattern pattern = Pattern.compile("^\\d*,\\d*$");
                     if (pattern.matcher(oneDonat).find()) {
-                        donations[i] = donations[i].add(BigDecimal.valueOf(Double
-                                .parseDouble(oneDonat.replace(',', '.'))));
-                    } else {
-                        scanner.nextLine();
+                        BigDecimal value = new BigDecimal(oneDonat.replace(',', '.'));
+                        donations[i] = donations[i].add(value);
                     }
                 }
             }
