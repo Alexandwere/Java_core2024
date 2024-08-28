@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c2284239-f9ee-4156-9dd6-96e1d38b8228" name="Changes" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comp.log" beforeDir="false" afterPath="$PROJECT_DIR$/comp.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework5/ex2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework5/ex2/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <recent name="C:\Users\lazuk\IdeaProjects\Java_core2024\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.homework2.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework5.ex2.Runner" />
       <module name="Java_core2024" />
@@ -69,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework5.ex1.Test" />
+    <configuration name="homework2.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Runner" />
       <module name="Java_core2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework5.ex1.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework2.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.homework4.ex1.Runner" />
         <item itemvalue="Application.homework5.ex1.Runner" />
         <item itemvalue="Application.rrrrrrr" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724696457987</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="1">
+      <option name="closed" value="true" />
+      <created>1724697724322</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724697724322</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
